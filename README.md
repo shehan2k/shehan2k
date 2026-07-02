@@ -79,17 +79,17 @@ A real-time target identification system utilizing an Artificial Neural Network 
 ## 📊 Git Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117" alt="Shehan's GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=dark&hide_border=true&bg_color=0d1117" alt="Top Languages" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=shehan2k&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117" alt="Shehan's GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shehan2k&layout=compact&theme=dark&hide_border=true&bg_color=0d1117" alt="Top Languages" width="48%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=dark&hide_border=true&background=0d1117" alt="GitHub Streak" width="98%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shehan2k&theme=dark&hide_border=true&background=0d1117" alt="GitHub Streak" width="98%" />
 </p>
 
 ---
 
 ## 🤝 Let's Connect
 
-- **LinkedIn:** [linkedin.com/in/your-profile](https://linkedin.com/in/your-profile)
-- **Portfolio:** [*Building an interactive Next.js + Three.js experience... Stay tuned!*](https://hacker-portfolio-eosin-pi.vercel.app/)
+- **LinkedIn:** (https://www.linkedin.com/in/shehan-uyanwatte-b94805272/)
+- **Portfolio:** (https://hacker-portfolio-eosin-pi.vercel.app/)
