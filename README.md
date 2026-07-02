@@ -79,8 +79,8 @@ A real-time target identification system utilizing an Artificial Neural Network 
 ## 📊 Git Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shehan2k&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117" alt="Shehan's GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shehan2k&layout=compact&theme=dark&hide_border=true&bg_color=0d1117" alt="Top Languages" width="48%" />
+  <img src="https://github-readme-stats-one.vercel.app/api?username=shehan2k&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117" alt="Shehan's GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats-one.vercel.app/api/top-langs/?username=shehan2k&layout=compact&theme=dark&hide_border=true&bg_color=0d1117" alt="Top Languages" width="48%" />
 </p>
 
 <p align="center">
