@@ -38,7 +38,7 @@ I am a B.Sc.Information Technology undergraduate student at The Open University 
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Neo4j](https://img.shields.io/badge/Neo4j-008CC1?style=for-the-badge&logo=neo4j&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-* **Graph Databases:** Neo4j, AuraDB[cite: 1] | **NoSQL:** Firestore[cite: 1]
+* **Graph Databases:** Neo4j, AuraDB | **NoSQL:** Firestore
 
 ### 💻 Programming Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -51,7 +51,7 @@ I am a B.Sc.Information Technology undergraduate student at The Open University 
 ### 🎨 Design & Prototyping
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
-* **Frameworks:** UI/UX Design, Design Thinking[cite: 1]
+* **Frameworks:** UI/UX Design, Design Thinking
 
 ---
 
