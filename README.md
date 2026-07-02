@@ -78,13 +78,19 @@ A real-time target identification system utilizing an Artificial Neural Network 
 
 ## 📊 Git Analytics
 
-<p align="center">
-  <img src="https://github-readme-stats-one.vercel.app/api?username=shehan2k&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117" alt="Shehan's GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats-one.vercel.app/api/top-langs/?username=shehan2k&layout=compact&theme=dark&hide_border=true&bg_color=0d1117" alt="Top Languages" width="48%" />
-</p>
+<table width="100%">
+  <tr>
+    <td width="50%" align="center">
+      <img src="https://github-readme-stats-one.vercel.app/api?username=shehan2k&show_icons=true&theme=dark&hide_border=false" alt="Shehan's GitHub Stats" />
+    </td>
+    <td width="50%" align="center">
+      <img src="https://github-readme-stats-one.vercel.app/api/top-langs/?username=shehan2k&layout=compact&theme=dark&hide_border=false" alt="Top Languages" />
+    </td>
+  </tr>
+</table>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shehan2k&theme=dark&hide_border=true&background=0d1117" alt="GitHub Streak" width="98%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shehan2k&theme=dark&hide_border=true&background=0d1117" alt="GitHub Streak" width="100%" />
 </p>
 
 ---
