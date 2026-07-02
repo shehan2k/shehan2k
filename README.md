@@ -59,20 +59,20 @@ I am a B.Sc.Information Technology undergraduate student at The Open University 
 
 ### 🌌 Astral — 123M Transformer "From-Scratch" LLM
 A full-stack generative AI application featuring a custom-built, 123-million-parameter decoder-only Transformer model trained entirely from scratch. Developed as a foundational engineering exercise to master tokenization, attention mechanisms, and deep learning infrastructure without relying on pre-built LLM wrappers.
-* **Core Model Stack:** PyTorch, Tiktoken (Custom-trained on 10,000+ narrative prompts/completions)
-* **Application Stack:** React, Next.js, FastAPI, Uvicorn, Python
+* **🧠 Core Model Stack:** ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white) `Tiktoken` (Custom-trained on 10,000+ narrative prompts/completions)
+* **🌐 Application Stack:** ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white) `Uvicorn` ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 
 ### 🧠 Neuro-Symbolic Math Solver
 An advanced math reasoning engine designed to push the limits of small-parameter models (like Llama 3.2: 1B). It parses natural language into rigorous symbolic code using SymPy and Z3 solver engines to eliminate mathematical hallucination.
-* **Stack:** Python, SymPy, Z3, Ollama, Local LLMs
+* **🛠️ Stack:** ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) `SymPy` `Z3 Solver` `Ollama` `Local LLMs`
 
 ### 🛍️ AI-Powered Apparel Marketplace
 A robust, high-performance cross-platform mobile marketplace application featuring secure biometric authentication, micro-vendor management, and a graph-based recommendation engine.
-* **Stack:** React Native (Expo), Nx Monorepo, Firebase, Neo4j, LangChain
+* **🛠️ Stack:** ![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat&logo=react&logoColor=61DAFB) ![Expo](https://img.shields.io/badge/Expo-000020?style=flat&logo=expo&logoColor=white) ![Nx](https://img.shields.io/badge/Nx-143055?style=flat&logo=nx&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black) ![Neo4j](https://img.shields.io/badge/Neo4j-008CC1?style=flat&logo=neo4j&logoColor=white) ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo=langchain&logoColor=white)
 
 ### 🛡️ AEGIS - Military Identification System
 A real-time target identification system utilizing an Artificial Neural Network (ANN) to classify and evaluate aircraft threat profiles based on speed, altitude, and radar cross-section.
-* **Stack:** Python, Scikit-Learn, Streamlit
+* **🛠️ Stack:** ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![Scikit-Learn](https://img.shields.io/badge/scikit_learn-F7931E?style=flat&logo=scikit-learn&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
 
 ---
 
