@@ -8,7 +8,7 @@
 
 </div>
 
----
+🤖 **Profile Views:** ![Visitor Count](https://profile-counter.glitch.me/shehan2k/count.svg)---
 
 <div align="left" style="max-width: 800px; margin: 0 auto;">
 
