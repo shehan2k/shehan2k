@@ -29,7 +29,7 @@ I am a **B.Sc. Information Technology** undergraduate student at *The Open Unive
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,nextjs,threejs,python,ts,firebase,neo4j,pytorch,nodejs,mysql,html,css,figma&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=react,nextjs,threejs,python,ts,firebase,neo4j,javascript,pytorch,nodejs,mysql,html,css,figma&theme=dark" />
   </a>
 </p>
 
