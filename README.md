@@ -1,14 +1,34 @@
+<div align="center">
+
 # Hi there, I'm Shehan 👋 🚀
 
-### IT Undergraduate | Full-Stack Engineer | AI Researcher | Aspiring AI Engineer | InfoSec and Compliance
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00FFCC&center=true&vCenter=true&width=600&lines=Full-Stack+Engineer+%7C+AI+Researcher;B.Sc.+Information+Technology+Undergrad;Optimizing+Small-Parameter+LLMs" alt="Typing SVG" />
+</a>
 
-I am a B.Sc.Information Technology undergraduate student at The Open University of Sri Lanka, currently working as an IT Intern. I specialize in building mobile apps, dynamic web architectures, and researching hybrid AI systems. 
+---
 
-- 💻 **Current Role:** IT Intern
-- 🎓 **Education:** B.Sc. (Hons) in Information Technology @ The Open University of Sri Lanka
-- 🧠 **Research Interests:** Neuro-Symbolic AI, Large Language Models (LLMs), and Hybrid Reasoners
-- ⚡ **Fun Fact:** I love optimizing small-parameter models to handle heavy-duty reasoning tasks on consumer hardware.
+### 🛠️ Core Stack & Technologies
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=react,nextjs,threejs,python,ts,firebase,neo4j&theme=dark" />
+  </a>
+</p>
 
+---
+
+<div align="left" style="max-width: 800px; margin: 0 auto;">
+
+I am a **B.Sc. Information Technology** undergraduate student at *The Open University of Sri Lanka*, currently working as an **IT Intern**. I specialize in building mobile apps, dynamic web architectures, and researching hybrid AI systems.
+
+### 🧠 Deep Dive
+
+*   **💻 Current Role:** IT Intern
+*   **🎓 Education:** B.Sc. (Hons) in Information Technology @ The Open University of Sri Lanka
+*   **🧠 Research Interests:** Neuro-Symbolic AI, Large Language Models (LLMs), and Hybrid Reasoners
+*   **⚡ Fun Fact:** I love optimizing small-parameter models to handle heavy-duty reasoning tasks on consumer hardware.
+
+</div>
 ---
 
 ## 🛠️ Tech Stack & Ecosystem
