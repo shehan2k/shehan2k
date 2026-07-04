@@ -9,8 +9,8 @@
 </div>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=shehan2k&color=00ffcc&style=flat-square&label=PROFILE+VIEWS" alt="Shehan's Profile Views" />
-</p>--
+  <img src="https://komarev.com/ghpvc/?username=shehan2k&color=00ffcc&style=for-the-badge&label=PROFILE+VIEWS" alt="Shehan's Profile Views" />
+</p>
 
 <div align="left" style="max-width: 800px; margin: 0 auto;">
 
