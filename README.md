@@ -6,14 +6,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00FFCC&center=true&vCenter=true&width=600&lines=Full-Stack+Engineer+%7C+AI+Researcher;B.Sc.+Information+Technology+Undergrad;Optimizing+Small-Parameter+LLMs" alt="Typing SVG" />
 </a>
 
----
-
-### 🛠️ Core Stack & Technologies
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,nextjs,threejs,python,ts,firebase,neo4j&theme=dark" />
-  </a>
-</p>
+</div>
 
 ---
 
@@ -23,15 +16,24 @@ I am a **B.Sc. Information Technology** undergraduate student at *The Open Unive
 
 ### 🧠 Deep Dive
 
-*   **💻 Current Role:** IT Intern
-*   **🎓 Education:** B.Sc. (Hons) in Information Technology @ The Open University of Sri Lanka
-*   **🧠 Research Interests:** Neuro-Symbolic AI, Large Language Models (LLMs), and Hybrid Reasoners
-*   **⚡ Fun Fact:** I love optimizing small-parameter models to handle heavy-duty reasoning tasks on consumer hardware.
+* **💻 Current Role:** IT Intern
+* **🎓 Education:** B.Sc. (Hons) in Information Technology @ The Open University of Sri Lanka
+* **🧠 Research Interests:** Neuro-Symbolic AI, Large Language Models (LLMs), and Hybrid Reasoners
+* **⚡ Fun Fact:** I love optimizing small-parameter models to handle heavy-duty reasoning tasks on consumer hardware.
 
 </div>
+
 ---
 
 ## 🛠️ Tech Stack & Ecosystem
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=react,nextjs,threejs,python,ts,firebase,neo4j,pytorch,nodejs,mysql,html,css,figma&theme=dark" />
+  </a>
+</p>
+
+<br>
 
 ### 🧠 Machine Learning & Specialised AI
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
@@ -45,7 +47,7 @@ I am a **B.Sc. Information Technology** undergraduate student at *The Open Unive
 
 ### 🧩 Logic, Search & Reasoning
 ![Prolog](https://img.shields.io/badge/Prolog-74283E?style=for-the-badge&logo=prolog&logoColor=white)
-* **Methods:** Symbolic AI, Symbolic Reasoning, BFS (Breadth-First Search), DFS (Depth-First Search)[cite: 1]
+* **Methods:** Symbolic AI, Symbolic Reasoning, BFS (Breadth-First Search), DFS (Depth-First Search)
 
 ### 🌐 Mobile & Web Development
 ![React Expo](https://img.shields.io/badge/React_Expo-000020?style=for-the-badge&logo=expo&logoColor=white)
@@ -100,21 +102,21 @@ A real-time target identification system utilizing an Artificial Neural Network 
 <table width="100%">
   <tr>
     <td width="50%" align="center">
-      <img src="https://github-readme-stats-one.vercel.app/api?username=shehan2k&show_icons=true&theme=dark&hide_border=false" alt="Shehan's GitHub Stats" />
+      <img src="https://github-readme-stats-one.vercel.app/api?username=shehan2k&show_icons=true&theme=tokyonight&hide_border=false" alt="Shehan's GitHub Stats" />
     </td>
     <td width="50%" align="center">
-      <img src="https://github-readme-stats-one.vercel.app/api/top-langs/?username=shehan2k&layout=compact&theme=dark&hide_border=false" alt="Top Languages" />
+      <img src="https://github-readme-stats-one.vercel.app/api/top-langs/?username=shehan2k&layout=compact&theme=tokyonight&hide_border=false" alt="Top Languages" />
     </td>
   </tr>
 </table>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shehan2k&theme=dark&hide_border=true&background=0d1117" alt="GitHub Streak" width="100%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shehan2k&theme=tokyonight&hide_border=true&background=0d1117" alt="GitHub Streak" width="100%" />
 </p>
 
 ---
 
 ## 🤝 Let's Connect
 
-- **LinkedIn:** (https://www.linkedin.com/in/shehan-uyanwatte-b94805272/)
-- **Portfolio:** (https://hacker-portfolio-eosin-pi.vercel.app/)
+- 💼 **LinkedIn:** [Shehan Uyanwatte](https://www.linkedin.com/in/shehan-uyanwatte-b94805272/)
+- 🌐 **Portfolio:** [hacker-portfolio.vercel.app](https://hacker-portfolio-eosin-pi.vercel.app/)
