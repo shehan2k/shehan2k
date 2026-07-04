@@ -14,7 +14,6 @@ I am a B.Sc.Information Technology undergraduate student at The Open University 
 ## 🛠️ Tech Stack & Ecosystem
 
 ### 🧠 Machine Learning & Specialised AI
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 * **Core Paradigms:** Neuro-Symbolic AI, Knowledge-Based Systems, Deep Learning, Reinforcement Learning, Classification
@@ -64,7 +63,7 @@ A full-stack generative AI application featuring a custom-built, 123-million-par
 
 ### 🧠 Neuro-Symbolic Math Solver
 An advanced math reasoning engine designed to push the limits of small-parameter models (like Llama 3.2: 1B). It parses natural language into rigorous symbolic code using SymPy and Z3 solver engines to eliminate mathematical hallucination.
-* **🛠️ Stack:** ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) `SymPy` `Z3 Solver` `Ollama` `Local LLMs`
+* **🛠️ Stack:** ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) `SymPy` `Ollama` `Local LLMs`
 
 ### 🛍️ AI-Powered Apparel Marketplace
 A robust, high-performance cross-platform mobile marketplace application featuring secure biometric authentication, micro-vendor management, and a graph-based recommendation engine.
