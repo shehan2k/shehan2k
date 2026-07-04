@@ -28,8 +28,8 @@ I am a **B.Sc. Information Technology** undergraduate student at *The Open Unive
 ## 🛠️ Tech Stack & Ecosystem
 
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,nextjs,threejs,python,ts,firebase,neo4j,javascript,pytorch,nodejs,mysql,html,css,figma&theme=dark" />
+  <a href="https://github.com/tandpfun/skill-icons">
+    <img src="https://skills-icons.vercel.app/api/icons?i=react,nextjs,threejs,python,ts,firebase,neo4j,javascript,pytorch,nodejs,mysql,html,css,figma&theme=dark" />
   </a>
 </p>
 
